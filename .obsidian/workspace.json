@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "8cf15e03a5be6561",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c12558770c0fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8e84373ccb699b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer composition/关于 CISC 和 RISC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于 CISC 和 RISC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2d30a072667b04f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1c04fab96101432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf373b832542300",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83c02ab9133db8f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ed1c3d11f67ca81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e557c83745309de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3492dd5938007a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5078b627f26491bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer composition/关于 CISC 和 RISC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0e6ffff2a6949490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0e96ff4737d48a51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f435e77ede654a59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d474e3fc67cc2e81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer composition/关于 CISC 和 RISC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9f8e84373ccb699b",
+  "lastOpenFiles": [
+    "Computer composition/主存储器 Storage Memory.md",
+    "Computer composition/关于 CISC 和 RISC.md",
+    "Computer composition/寻址方式.md",
+    "Computer composition/第三章 存储系统 Storage System.md",
+    "Computer composition/第四章 指令系统 Instruction System.md",
+    "Computer composition/虚拟存储器和快表 TLB.md"
+  ]
+}
