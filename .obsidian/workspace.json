@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer composition/关于 CISC 和 RISC.md",
+                "file": "Computer composition/寻址方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于 CISC 和 RISC"
+              "title": "寻址方式"
             }
           }
         ]
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer composition/关于 CISC 和 RISC.md",
+                "file": "Computer composition/寻址方式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,11 +189,11 @@
   },
   "active": "9f8e84373ccb699b",
   "lastOpenFiles": [
-    "Computer composition/主存储器 Storage Memory.md",
-    "Computer composition/关于 CISC 和 RISC.md",
-    "Computer composition/寻址方式.md",
-    "Computer composition/第三章 存储系统 Storage System.md",
     "Computer composition/第四章 指令系统 Instruction System.md",
-    "Computer composition/虚拟存储器和快表 TLB.md"
+    "Computer composition/寻址方式.md",
+    "Computer composition/虚拟存储器和快表 TLB.md",
+    "Computer composition/关于 CISC 和 RISC.md",
+    "Computer composition/主存储器 Storage Memory.md",
+    "Computer composition/第三章 存储系统 Storage System.md"
   ]
 }
